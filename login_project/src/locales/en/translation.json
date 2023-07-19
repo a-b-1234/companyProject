@@ -1,0 +1,19 @@
+{
+  "direction": "ltr",
+  "name": "NG-Regev-DataEntry",
+  "titleAppName": "NG Regev DataEntry",
+  "general": {
+    "search": {
+      "search": "search"
+    }
+  },
+  "userAccount": {
+    "labels": {
+      "userName": "user name",
+      "password": "password"
+    },
+    "submitButtons": {
+      "login": "Login"
+    }
+  }
+}
